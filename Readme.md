@@ -1,2 +1,2 @@
-# Личный проект «Sedona» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+# Личный проект «Sedona»
 23.06.2017
